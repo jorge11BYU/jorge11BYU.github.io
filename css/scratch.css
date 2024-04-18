@@ -1,0 +1,74 @@
+
+
+body {
+font-family:'Courier New', Courier, monospace;
+color: black;
+background-color: rgb(135, 203, 206);   
+}
+
+.panini {
+text-align: center;
+align-items: center;
+align-content: center;
+}
+
+.topLinks {
+font-family: 'Courier New', Courier, monospace;
+color: white;
+text-align: center;
+top: 5px;
+left: 5px;
+right: 5px;
+height: 90px;
+padding: 5px;
+background-color: rgb(64, 64, 64);
+}
+
+.common { 
+position: absolute;
+border-bottom: 2px rgb(104, 104, 104) solid;
+}
+
+.favoriteMeals {
+top: 110px;
+left: 5px;
+right: 5px;
+height: 1150px;
+display: block;
+align-items:center;
+}
+
+.video {
+top: 1265px;
+left: 5px;
+right: 5px;
+height: 400px;
+display: block;
+align-items:center;
+text-align: center;
+}
+
+.tableauThing {
+top: 1670px;
+left: 0px;
+right: 0px;
+height: 1000px;
+}
+
+.backToTop {
+bottom: 100px;
+left: 5px;
+right: 5px;
+height: 100px;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
